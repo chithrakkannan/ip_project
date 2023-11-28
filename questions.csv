@@ -1,0 +1,11 @@
+question_id,question_text,option_a,option_b,option_c,option_d,correct_option,category
+1,Who composed the Moonlight Sonata?,Mozart,Beethoven,Chopin,Bach,B,Music Category
+2,Which instrument does Yo-Yo Ma play?,Violin,Cello,Piano,Flute,B,Music Category
+3,In which year did The Beatles release their first album?,1962,1964,1968,1970,A,Music Category
+4,"Who is known as the ""King of Pop""?",Elvis Presley,Michael Jackson,Prince,David Bowie,B,Music Category
+5,Which classical composer was deaf?,Mozart,Beethoven,Bach,Chopin,B,Music Category
+6,What is the capital of France?,Berlin,Rome,Madrid,Paris,D,General Category
+7,Which planet is known as the Red Planet?,Earth,Mars,Jupiter,Venus,B,General Category
+8,"Who wrote ""Romeo and Juliet""?",Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,B,General Category
+9,What is the currency of Japan?,Yuan,Won,Yen,Ringgit,C,General Category
+10,Which ocean is the largest?,Atlantic Ocean,Indian Ocean,Southern Ocean,Pacific Ocean,D,General Category
